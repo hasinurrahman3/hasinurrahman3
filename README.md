@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ... NodeJS 
 - 👯 I’m looking to collaborate on ... NodeJS 
 - 🤔 I’m looking for help with ... Web developing 
-- 💬 Ask me about  ... Anything 
+- 💬 Ask me about  ... Anything
+- 📫 How to reach me: ... 
 - 😄 Pronouns:  ... He/Him 
 - ⚡ Fun fact:  ...Teaching is the best way to learn ! 
 ![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
