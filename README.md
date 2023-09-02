@@ -28,5 +28,3 @@ Skills: REACT / JS / HTML / CSS
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=hasinurrahman3)
 
 ![GitHub metrics](https://metrics.lecoq.io/hasinurrahman3)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=neon_icons=true)
