@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
 ### Hi 👋 I'm Hasinur Rahman
 #### Web Developer
-
 - 🔭 I’m currently working on ... Full Stack Web Developing 
 - 🌱 I’m currently learning ... NodeJS 
 - 👯 I’m looking to collaborate on ... NodeJS 
