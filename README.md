@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **hasinurrahman3/hasinurrahman3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋, I'm Hasinur Rahman
+### Hi 👋 I'm Hasinur Rahman
 #### Web Developer
 ![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
