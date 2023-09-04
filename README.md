@@ -1,17 +1,4 @@
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/D4D16AQHPTTYcXKxHVA/profile-displaybackgroundimage-shrink_350_1400/0/1693861822485?e=1699488000&v=beta&t=UTkKkpugy2IPVf8PQ7emecyFvWMrzpoW3CmZaOXgOYI)
-
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
-Skills: VUE JS / REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
-
-
-
-
-
+![](https://media.licdn.com/dms/image/D4D16AQHPTTYcXKxHVA/profile-displaybackgroundimage-shrink_350_1400/0/1693861822485?e=1699488000&v=beta&t=UTkKkpugy2IPVf8PQ7emecyFvWMrzpoW3CmZaOXgOYI)
 
 ### Hi 👋 I'm Hasinur Rahman
 #### Web Developer
